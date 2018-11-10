@@ -21,11 +21,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecartCoordinates", "Decart
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week3", "Week3", "{76F48245-D7DF-4CD1-B8B2-E93441F8B871}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusTicketLuckyNumbers", "BusTicketLuckyNumbers\BusTicketLuckyNumbers.csproj", "{86D0DE88-28B0-4318-8629-E81776B4B2D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusTicketLuckyNumbers", "BusTicketLuckyNumbers\BusTicketLuckyNumbers.csproj", "{86D0DE88-28B0-4318-8629-E81776B4B2D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiserPiggy", "MiserPiggy\MiserPiggy.csproj", "{FD350B15-C96C-4AC6-94FD-43CEF44F3326}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiserPiggy", "MiserPiggy\MiserPiggy.csproj", "{FD350B15-C96C-4AC6-94FD-43CEF44F3326}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleDeckOfCards", "SimpleDeckOfCards\SimpleDeckOfCards.csproj", "{D0F68D8C-9DC2-48CD-B8C2-27AB5E258096}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleDeckOfCards", "SimpleDeckOfCards\SimpleDeckOfCards.csproj", "{D0F68D8C-9DC2-48CD-B8C2-27AB5E258096}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week6", "Week6", "{F6E9B758-5AF8-4AD6-BE13-7D4AE2C7F630}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcNameVariant1", "CalcNameVariant1\CalcNameVariant1.csproj", "{BF4CB1C4-B19F-456E-9AE7-2E2BEEA93028}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -73,6 +77,10 @@ Global
 		{D0F68D8C-9DC2-48CD-B8C2-27AB5E258096}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0F68D8C-9DC2-48CD-B8C2-27AB5E258096}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0F68D8C-9DC2-48CD-B8C2-27AB5E258096}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF4CB1C4-B19F-456E-9AE7-2E2BEEA93028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF4CB1C4-B19F-456E-9AE7-2E2BEEA93028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF4CB1C4-B19F-456E-9AE7-2E2BEEA93028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF4CB1C4-B19F-456E-9AE7-2E2BEEA93028}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -85,6 +93,7 @@ Global
 		{86D0DE88-28B0-4318-8629-E81776B4B2D5} = {76F48245-D7DF-4CD1-B8B2-E93441F8B871}
 		{FD350B15-C96C-4AC6-94FD-43CEF44F3326} = {76F48245-D7DF-4CD1-B8B2-E93441F8B871}
 		{D0F68D8C-9DC2-48CD-B8C2-27AB5E258096} = {76F48245-D7DF-4CD1-B8B2-E93441F8B871}
+		{BF4CB1C4-B19F-456E-9AE7-2E2BEEA93028} = {F6E9B758-5AF8-4AD6-BE13-7D4AE2C7F630}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FB89063C-2BAC-49A1-A8A3-0B8806082194}
